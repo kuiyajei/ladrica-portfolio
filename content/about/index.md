@@ -4,6 +4,8 @@ description: Hi, I'm Jericho Andrei Ladrica
 ---
 
 
-Hello again.
+App development, video games, travel, fitness, Japanese entertainment, and learning the guitar. Messy list, but I never stick to one thing. 
 
-Lorem ipsum dolor sit amet, :smile: consectetur adipisicing elit. Voluptates aut, tenetur distinctio voluptatibus ab. Nihil id dignissimos unde, tenetur iusto facilis suscipit corporis, ipsam necessitatibus, eaque iste deleniti consequuntur reprehenderit? :earth_africa:
+Passionate in helping others, my only hope is to be able to improve the lives of others by sharing what I know. That's pretty much it actually. Maybe some other time I'll put some pictures in this page if I actually have myself in them :laughing: (that I have confidence in sharing ofc... yes, I'm introverted)
+
+[> Experience](/experience "This is totally not a resume I swear")

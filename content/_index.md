@@ -12,4 +12,4 @@ In here you'll find out more about me professionally and personally.
 
 Thanks for stopping by :)
 
-[Get to know me better](/about "Get to know me better")
+[> Get to know me better](/about "Wait, you're actually interested?")
