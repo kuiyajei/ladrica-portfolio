@@ -2,7 +2,7 @@
   <div class="intro">
     <div class="logo-container">
       <a href="/">
-        <img src='{{ .Site.Params.sidebar.logo | default "images/LinkedIn_PFP.png" | absURL }}' alt="Profile {{ .Title }}" class="rounded-logo">
+        <img src="/post/images/LinkedIn_PFP.png" alt="Profile {{ .Title }}" class="rounded-logo">
       </a>
     </div>
     <h2>{{ .Site.Params.intro.main | default "Welcome, I'm John Doe" | emojify }}</h2>
@@ -26,7 +26,7 @@
 </header>
 
 <div class="mobile-header">
-  <p> {{ .Site.Title }} </p>
+  <a href="/"> {{ .Site.Title }} </a>
   <div class="hamburger">
     <div class="bar"></div>
     <div class="bar"></div>
@@ -39,7 +39,7 @@
     <div class="intro">
       <div class="logo-container">
         <a href="/">
-          <img src='{{ .Site.Params.sidebar.logo | default "images/LinkedIn_PFP.png" | absURL }}' alt="Profile {{ .Title }}" class="rounded-logo">
+          <img src="/post/images/LinkedIn_PFP.png" alt="Profile {{ .Title }}" class="rounded-logo">
         </a>
       </div>
       <h2>{{ .Site.Params.intro.main | default "Welcome, I'm John Doe" | emojify }}</h2>

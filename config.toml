@@ -1,7 +1,5 @@
 baseURL = "https://kuiyajei.github.io/ladrica-portfolio" # "https://kuiyajei.github.io/ladrica-portfolio" ||| "/"
 canonifyURLs = 'true'
-relativeURLs = 'true'
-uglyurls = true
 languageCode = "en-us"
 title = "Jeriのポートフォリオ"
 theme = "personal-web"
