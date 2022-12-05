@@ -4,10 +4,12 @@ description: Welcome to this sample project
 images: ["/images/sample.jpg"]
 ---
 
-Hey,
+Hello! Welcome to my portfolio.
 
-[Insert that nice intro here]
+I'm Jeri, fresh graduate (2023) from De La Salle - College of Saint Benilde with a degree in Information Systems (which is basically an IT degree with a bit of entrepreneurship).
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus error cumque quisquam necessitatibus libero dolore porro, quo at molestiae modi voluptatibus iusto alias corporis. Accusamus, debitis, atque. Maiores, distinctio, neque.
+In here you'll find out more about me professionally and personally. 
+
+Thanks for stopping by :)
 
 [Get to know me better](/about "Get to know me better")

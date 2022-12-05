@@ -2,7 +2,7 @@ baseURL = "/" #https://kuiyajei.github.io/
 languageCode = "en-us"
 title = "Jeriのポートフォリオ"
 theme = "personal-web"
-copyright="© Edna West"
+copyright="" #©
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -74,11 +74,18 @@ pygmentsCodeFences=true
   weight = -120
 
 [[menu.main]]
+  identifier = "experience"
+  name = "Experience"
+  title = "Experience"
+  url = "/experience/"
+  weight = -110
+
+[[menu.main]]
   identifier = "portfolio"
   name = "Portfolio"
   title = "Portfolio"
   url = "/portfolio/"
-  weight = -110
+  weight = -100
 
 [sitemap]
   changefreq = "monthly"
