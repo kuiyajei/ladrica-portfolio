@@ -1,4 +1,4 @@
-baseURL = "https://kuiyajei.github.io/ladrica-portfolio" #https://kuiyajei.github.io/
+baseURL = "https://kuiyajei.github.io/ladrica-portfolio" # "https://kuiyajei.github.io/ladrica-portfolio" ||| "/"
 canonifyURLs = 'true'
 languageCode = "en-us"
 title = "Jeriのポートフォリオ"
@@ -43,7 +43,7 @@ pygmentsCodeFences=true
 [params.sidebar]
   backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "/images/LinkedIn_PFP.png" # - default "/images/edna-west.jpg"
+  logo = "/LinkedIn_PFP.png" # - default "/images/edna-west.jpg" // IMPORTANT: putting stuff inside the static folder doesn't build it on the page, consider placiing it inside 'content'
 [params.assets]
   favicon = ""
   customCSS = ""

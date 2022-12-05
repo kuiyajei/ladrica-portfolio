@@ -8,4 +8,4 @@ App development, video games, travel, fitness, Japanese entertainment, and learn
 
 Passionate in helping others, my only hope is to be able to improve the lives of others by sharing what I know. That's pretty much it actually. Maybe some other time I'll put some pictures in this page if I actually have myself in them :laughing: (that I have confidence in sharing ofc... yes, I'm introverted)
 
-[> Experience](/experience "This is totally not a resume I swear")
+[> My experiences](/experience "This is totally not a glorified resume I swear")
