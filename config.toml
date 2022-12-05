@@ -1,4 +1,5 @@
-baseURL = "/" #https://kuiyajei.github.io/
+baseURL = "https://kuiyajei.github.io/ladrica-portfolio" #https://kuiyajei.github.io/
+canonifyURLs = 'true'
 languageCode = "en-us"
 title = "Jeriのポートフォリオ"
 theme = "personal-web"

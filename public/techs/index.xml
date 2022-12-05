@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Techs on Jeriのポートフォリオ</title>
-    <link>/techs/</link>
+    <link>https://kuiyajei.github.io/ladrica-portfolio/techs/</link>
     <description>Recent content in Techs on Jeriのポートフォリオ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/techs/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://kuiyajei.github.io/ladrica-portfolio/techs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
