@@ -1,6 +1,6 @@
 ---
 title: Home
-description: Welcome to this sample project
+description: Jeri's portfolio
 images: ["/images/sample.jpg"]
 ---
 

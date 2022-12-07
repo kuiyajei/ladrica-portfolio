@@ -1,9 +1,9 @@
-baseURL = "https://kuiyajei.github.io/ladrica-portfolio" # "https://kuiyajei.github.io/ladrica-portfolio" ||| "/"
+baseURL = "/" # "https://kuiyajei.github.io/ladrica-portfolio" ||| "/"
 canonifyURLs = 'true'
 languageCode = "en-us"
 title = "Jeriのポートフォリオ"
 theme = "personal-web"
-copyright="" #©
+copyright="© Jericho Andrei Ladrica" #©
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
