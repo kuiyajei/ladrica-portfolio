@@ -41,7 +41,7 @@ pygmentsCodeFences=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash // /content/post/images/nice_shot_of_that_chocolate_mountain.jpg
+  backgroundImage = '/post/images/nice_shot_of_that_chocolate_mountain.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash // /content/post/images/nice_shot_of_that_chocolate_mountain.jpg
   gradientOverlay = 'rgba(0,0,0,0.6),rgba(0,0,0,0.75)' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
   logo = "/images/LinkedIn_PFP.png" # - default "/images/edna-west.jpg" // IMPORTANT: putting stuff inside the static folder doesn't build it on the page, consider placiing it inside 'content'
 [params.assets]
