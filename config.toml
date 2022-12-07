@@ -1,5 +1,4 @@
-baseURL = "/" # "https://kuiyajei.github.io/ladrica-portfolio" ||| "/"
-relativeURLs = 'true'
+baseURL = "https://kuiyajei.github.io/ladrica-portfolio" # "https://kuiyajei.github.io/ladrica-portfolio" ||| "/"
 canonifyURLs = 'true'
 languageCode = "en-us"
 title = "Jeriのポートフォリオ"

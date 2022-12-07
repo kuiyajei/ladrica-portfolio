@@ -30,7 +30,8 @@ An OJT project point-of-sale application that includes sales tracking, inventory
 
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-images" viewBox="0 0 16 16"><path d="M4.502 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/><path d="M14.002 13a2 2 0 0 1-2 2h-10a2 2 0 0 1-2-2V5A2 2 0 0 1 2 3a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v8a2 2 0 0 1-1.998 2zM14 2H4a1 1 0 0 0-1 1h9.002a2 2 0 0 1 2 2v7A1 1 0 0 0 15 11V3a1 1 0 0 0-1-1zM2.002 4a1 1 0 0 0-1 1v8l2.646-2.354a.5.5 0 0 1 .63-.062l2.66 1.773 3.71-3.71a.5.5 0 0 1 .577-.094l1.777 1.947V5a1 1 0 0 0-1-1h-10z"/>
 </svg>
-Preview screenshots [here](/ "Because of privacy. We are not allowed to share the code.")
+Preview screenshots 
+<a href="https://imgur.com/a/IsVJ0z5" target="_blank" title='Because of privacy. We are not allowed to share the code.'>here</a> 
 </center>
 
 <br> <hr> <br>
@@ -51,9 +52,10 @@ A graduate capstone project.
 Read more [here](/projects/%5BRevised%20Final%5D%20Benefits%20of%20a%20Web-based%20Salon%20and%20Spa%20Business%20Directory%20and%20Booking%20System%20in%20Metro%20Manila.pdf "This is pretty long")  
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-images" viewBox="0 0 16 16"><path d="M4.502 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/><path d="M14.002 13a2 2 0 0 1-2 2h-10a2 2 0 0 1-2-2V5A2 2 0 0 1 2 3a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v8a2 2 0 0 1-1.998 2zM14 2H4a1 1 0 0 0-1 1h9.002a2 2 0 0 1 2 2v7A1 1 0 0 0 15 11V3a1 1 0 0 0-1-1zM2.002 4a1 1 0 0 0-1 1v8l2.646-2.354a.5.5 0 0 1 .63-.062l2.66 1.773 3.71-3.71a.5.5 0 0 1 .577-.094l1.777 1.947V5a1 1 0 0 0-1-1h-10z"/>
 </svg>
-Preview Screenshots [here](/ "since it's locally developed and not deployed")
+Preview screenshots 
+<a href="https://imgur.com/a/lJ9xOPk" target="_blank" title="since it's locally developed and not deployed">here</a> 
 </center>
 
 <br> <hr> <br>
 
-[> Back to landing page](/ "Go back to where it all began")
+[> Back to landing page](/ "Go back to where it all began ...ok sorry")
