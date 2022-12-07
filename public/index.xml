@@ -6,6 +6,7 @@
     <description>Recent content in Home on Jeriのポートフォリオ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>© Jericho Andrei Ladrica</copyright>
     <lastBuildDate>Fri, 03 May 2019 09:37:55 +0200</lastBuildDate><atom:link href="https://kuiyajei.github.io/ladrica-portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experience</title>
@@ -14,7 +15,8 @@
       
       <guid>https://kuiyajei.github.io/ladrica-portfolio/experience/</guid>
       <description>Education | Work | Skills
-Education 2018 - Present | Manila, Metro Manila
+View the following in PDF
+Education 2018 - 2022 | Manila, Metro Manila
 De La Salle — College of Saint Benilde
 Bachelor of Science in Information Systems
 1x Dean’s List — Second Honors (3rd Term SY 2018-2019) 2017 – 2018 | Toronto, Ontario
@@ -22,8 +24,7 @@ North Toronto Collegiate Institute
 Graduate High School
 2014 - 2017 | Ottawa, Ontario
 Lisgar Collegiate Institute
-Grade 10 Honors in Applied Math
-Work Sept. 2022 - Dec. 2022 | Cabuyao, Laguna</description>
+Grade 10 Honors in Applied Math</description>
     </item>
     
     <item>
@@ -33,6 +34,7 @@ Work Sept. 2022 - Dec. 2022 | Cabuyao, Laguna</description>
       
       <guid>https://kuiyajei.github.io/ladrica-portfolio/projects/</guid>
       <description>POS Offline&amp;nbsp;An OJT project point-of-sale application that includes sales tracking, inventory management, user management, barcode scanning, log books, etc.
+Preview screenshots here
 SalonSpaS&amp;nbsp;A graduate capstone project.
 &amp;ldquo;With the aim to improve the business performances of spas and salons, and to introduce customers an easy way to find and book appointments with them, this study proposes to create a platform — in the Philippines — that will help the two interact with one another in a fast and efficient manner, with the overall goal of benefiting both sides.</description>
     </item>
@@ -105,8 +107,10 @@ images: [&amp;#34;/images/sample.jpg&amp;#34;] </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kuiyajei.github.io/ladrica-portfolio/about/</guid>
-      <description>App development, video games, travel, fitness, Japanese entertainment, and learning the guitar. Messy list, but I never stick to one thing.
-Passionate in helping others, my only hope is to be able to improve the lives of others by sharing what I know. That&amp;rsquo;s pretty much it actually. Maybe some other time I&amp;rsquo;ll put some pictures in this page if I actually have myself in them 😆 (that I have confidence in sharing ofc&amp;hellip; yes, I&amp;rsquo;m introverted)</description>
+      <description>Who am I? App development, video games, travel, fitness, Japanese entertainment, and learning the guitar. Messy list, but I never stuck to one thing. I like to think of myself as a master of none, and more of a jack-of-all-trades kind of guy.
+Passionate in helping others, my only hope is to be able to improve the lives of others by sharing what I know.
+&amp;gt; My experiences
+Graduation thoughts // Continuous growth On the job training, leader of the capstone project&amp;rsquo;s app development, and finishing another class&amp;hellip; all in one term under 4 months.</description>
     </item>
     
   </channel>
