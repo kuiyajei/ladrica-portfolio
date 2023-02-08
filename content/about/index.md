@@ -7,9 +7,9 @@ description: Hi, I'm Jericho Andrei Ladrica
 
 ### Who am I?
 
-App development, video games, travel, fitness, Japanese entertainment, and learning the guitar. Messy list, but I never stuck to one thing. I like to think of myself as a master of none, and more of a jack-of-all-trades kind of guy.
+App development, video games, travel, fitness, Japanese entertainment, and learning the guitar. Messy list, but I never stick to one thing. I like to think of myself as a master of none, and more of a jack-of-all-trades kind of guy.
 
-Passionate in helping others, my only hope is to be able to improve the lives of others by sharing what I know.  
+Passionate in helping others — my hope is to improve the lives of others by sharing what I know.  
 
 [> My experiences](/experience "This is totally not a glorified resume I swear")
 
@@ -17,14 +17,10 @@ Passionate in helping others, my only hope is to be able to improve the lives of
 
 ***
 
-### Graduation thoughts // Continuous growth
+### Thoughts after graduation
 
-On the job training, leader of the capstone project's app development, and finishing another class... all in one term under 4 months. In the end, though, it all worked out. Never thought I'd appreciate an experience I hated so much. It was stressful, yet rewarding. Plenty of mixed feelings this one.
+After four months of what I'd describe as unforgiving, tough, and grueling — surprisingly it all worked out in the end. Taking the lead in two projects, developing and making changes to both of them, delegating tasks, and teaching my teammates, all under one term was nothing short of demanding. And yet still, it was all a very rewarding experience.
 
-Now, after taking a such large step on my career, I find myself asking the same question as I once asked myself before: "what now?"
-
-Honestly, I'm not so sure. Maybe I never will be.
-
-But what I am sure of, is that the experiences I have endured for in the past 4 years were no mistake. I might not have an answer for that question right now, I might not be prepared for what's to come, I might not even be confident enough with the skills I've acquired in my education for the tougher roads ahead. But I do know that I'm still determined to see things through, to keep searching for that answer that comes back to me every time. And to me, that's absolutely fine, because there is no shame to keep on learning.
+Hope that caught your attention because that's all I really have to say after four years of college :) I'd say those last four months of hard work were the most I got from my education. I'm not good at mixing words in a poetic fashion you see so I guess I'll just leave it at that. We'll just have to get to know each other better at an interview!
 
 <br>

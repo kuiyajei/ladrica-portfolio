@@ -42,7 +42,7 @@ An OJT project point-of-sale application that includes sales tracking, inventory
   &nbsp;
 </figure>
 
-A graduate capstone project.  
+An undergraduate capstone project.  
 
 "With the aim to improve the business performances of spas and salons, and to introduce customers an easy way to find and book appointments with them, this study proposes to create a platform — in the Philippines — that will help the two interact with one another in a fast and efficient manner, with the overall goal of benefiting both sides."
 
